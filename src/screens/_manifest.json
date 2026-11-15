@@ -1,0 +1,443 @@
+{
+ "app": "Essential UI Kit",
+ "start": "onboarding-page",
+ "screens": [
+  {
+   "slug": "article-burger-menu-expand-page",
+   "name": "Article Burger Menu Expand Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 44,
+   "links": 6
+  },
+  {
+   "slug": "article-burger-menu-page",
+   "name": "Article Burger Menu Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 41,
+   "links": 2
+  },
+  {
+   "slug": "article-list-page",
+   "name": "Article List Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 56,
+   "links": 6
+  },
+  {
+   "slug": "article-bookmark-page",
+   "name": "Article Bookmark Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 58,
+   "links": 5
+  },
+  {
+   "slug": "article-profile-page",
+   "name": "Article Profile Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 50,
+   "links": 5
+  },
+  {
+   "slug": "article-detail-page",
+   "name": "Article Detail Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 1371,
+   "elements": 45,
+   "links": 3
+  },
+  {
+   "slug": "article-grid-page",
+   "name": "Article Grid Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 871,
+   "elements": 68,
+   "links": 6
+  },
+  {
+   "slug": "article-interests-page",
+   "name": "Article Interests Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 75,
+   "links": 5
+  },
+  {
+   "slug": "about-us-image-page",
+   "name": "About Us Image Page  ",
+   "page": "Designs",
+   "w": 375,
+   "h": 1154,
+   "elements": 44,
+   "links": 4
+  },
+  {
+   "slug": "about-us-page",
+   "name": "About Us Page  ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 47,
+   "links": 4
+  },
+  {
+   "slug": "about-us-app-page",
+   "name": "About Us App Page  ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 16,
+   "links": 2
+  },
+  {
+   "slug": "contact-us-page",
+   "name": "Contact Us Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 700,
+   "elements": 31,
+   "links": 2
+  },
+  {
+   "slug": "onboarding-page",
+   "name": "Onboarding Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 125,
+   "links": 1
+  },
+  {
+   "slug": "onboarding-page-2",
+   "name": "Onboarding Page_2",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 41,
+   "links": 2
+  },
+  {
+   "slug": "onboarding-page-3",
+   "name": "Onboarding Page_3",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 126,
+   "links": 2
+  },
+  {
+   "slug": "onboarding-page-gradient",
+   "name": "Onboarding Page Gradient",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 116,
+   "links": 2
+  },
+  {
+   "slug": "onboarding-page-2-gradient",
+   "name": "Onboarding Page_2 Gradient",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 31,
+   "links": 2
+  },
+  {
+   "slug": "onboarding-page-3-gradient",
+   "name": "Onboarding Page_3 Gradient",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 118,
+   "links": 2
+  },
+  {
+   "slug": "navigation-tile-card-page",
+   "name": "Navigation Tile Card Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 930,
+   "elements": 52,
+   "links": 3
+  },
+  {
+   "slug": "navigation-list-card-page",
+   "name": "Navigation List Card Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 688,
+   "elements": 45,
+   "links": 3
+  },
+  {
+   "slug": "bottom-navigation-photos-page",
+   "name": "Bottom Navigation Photos Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 43,
+   "links": 2
+  },
+  {
+   "slug": "bottom-navigation-album-page",
+   "name": "Bottom Navigation Album Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 61,
+   "links": 7
+  },
+  {
+   "slug": "bottom-navigation-setting-page",
+   "name": "Bottom Navigation Setting Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 52,
+   "links": 4
+  },
+  {
+   "slug": "navigation-tile-card-page-2",
+   "name": "Navigation Tile Card Page_2",
+   "page": "Designs",
+   "w": 375,
+   "h": 930,
+   "elements": 36,
+   "links": 3
+  },
+  {
+   "slug": "chat-home-page",
+   "name": "Chat Home Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 73,
+   "links": 2
+  },
+  {
+   "slug": "chat-multiselection-page",
+   "name": "Chat Multiselection Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 73,
+   "links": 3
+  },
+  {
+   "slug": "chat-page",
+   "name": "Chat Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 35,
+   "links": 2
+  },
+  {
+   "slug": "chat-swipe-page",
+   "name": "Chat Swipe Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 77,
+   "links": 3
+  },
+  {
+   "slug": "chat-profile-page",
+   "name": "Chat Profile Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "chat-profile-page-2",
+   "name": "Chat Profile Page_2",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 38,
+   "links": 3
+  },
+  {
+   "slug": "tablet-product-detail-page",
+   "name": "Tablet Product Detail Page",
+   "page": "Designs",
+   "w": 768,
+   "h": 1382,
+   "elements": 88,
+   "links": 2
+  },
+  {
+   "slug": "catalog-page-list",
+   "name": "Catalog Page List ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 79,
+   "links": 5
+  },
+  {
+   "slug": "product-detail-page",
+   "name": "Product Detail Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 1374,
+   "elements": 84,
+   "links": 2
+  },
+  {
+   "slug": "catalog-page-tile",
+   "name": "Catalog Page Tile ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 68,
+   "links": 5
+  },
+  {
+   "slug": "filter-page",
+   "name": "Filter Page ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 54,
+   "links": 2
+  },
+  {
+   "slug": "sort-page",
+   "name": "Sort Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "category-page-list",
+   "name": "Category Page List ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 70,
+   "links": 4
+  },
+  {
+   "slug": "cart-page",
+   "name": "Cart Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 794,
+   "elements": 70,
+   "links": 3
+  },
+  {
+   "slug": "checkout-page",
+   "name": "Checkout Page ",
+   "page": "Designs",
+   "w": 375,
+   "h": 1064,
+   "elements": 83,
+   "links": 5
+  },
+  {
+   "slug": "category-page-tile",
+   "name": "Category Page Tile",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 44,
+   "links": 4
+  },
+  {
+   "slug": "review-page",
+   "name": "Review Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 694,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "review-page-1",
+   "name": "Review Page_1",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 78,
+   "links": 5
+  },
+  {
+   "slug": "review-page-2",
+   "name": "Review Page_2",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 44,
+   "links": 4
+  },
+  {
+   "slug": "login-page",
+   "name": "Login Page ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 21,
+   "links": 3
+  },
+  {
+   "slug": "login-page-light",
+   "name": "Login Page Light",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 26,
+   "links": 5
+  },
+  {
+   "slug": "sign-up-page",
+   "name": "Sign Up Page",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 20,
+   "links": 3
+  },
+  {
+   "slug": "forgot-password-page",
+   "name": "Forgot Password Page ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 14,
+   "links": 3
+  },
+  {
+   "slug": "reset-password-page",
+   "name": "Reset Password Page ",
+   "page": "Designs",
+   "w": 375,
+   "h": 667,
+   "elements": 15,
+   "links": 3
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "montserrat"
+ ]
+}
